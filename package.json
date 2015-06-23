@@ -37,7 +37,9 @@
     "less": "2.5.0",
     "stylus": "0.47.3",
     "minify": "git://github.com/kennethormandy/minify#v0.3.0",
-    "autoprefixer": "5.1.0"
+    "autoprefixer": "5.1.0",
+    "browserify": "^10.2.4",
+    "through": "^2.3.7"
   },
   "devDependencies": {
     "mocha": "1.8.2",
